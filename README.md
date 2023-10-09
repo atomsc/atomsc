@@ -1,7 +1,11 @@
 
-# 🙋🏻‍♀️ Introducing Myself
-## A second-level heading
-### A third-level heading
+# 🙋🏻‍♀️ Welcome to my portfolio!
+## 👀 Who Am I
+⭐ Scientist and Engineer with a passion for data.
+
+⭐ Bachleor of Science in Electrical Engineering.
+
+⭐ Master of Science in Biomedical Engineering.
 
 - 👋 Hi, I’m @atomsc
 - 👀 I’m interested in ...
