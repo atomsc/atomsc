@@ -1,17 +1,30 @@
 
-# 🙋🏻‍♀️ Welcome to my portfolio!
+## 🙋🏻‍♀️ Welcome to my portfolio!
 ## 👀 Who Am I
-⭐ Scientist and Engineer with a passion for data.
+Hello I am Adam. I have expeirence in python, R, and analyzing data. I have a passion for machine learning and statistics. 
 
-⭐ Bachleor of Science in Electrical Engineering.
+-⭐ Scientist and Engineer with a passion for data.
 
-⭐ Master of Science in Biomedical Engineering.
+-⭐ Bachleor of Science in Electrical Engineering.
 
-- 👋 Hi, I’m @atomsc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-⭐ Master of Science in Biomedical Engineering.
+
+### 📝 Projects
+
+
+
+### 🖥️ Languages
+- Python
+- Matlab
+- R
+- C#
+- C++
+
+### 📧 Connect with Me
+- [Linkedin](https://www.linkedin.com/in/adam-schlag/)
+
+
+
 
 <!---
 atomsc/atomsc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
