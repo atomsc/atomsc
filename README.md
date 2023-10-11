@@ -10,6 +10,7 @@ Hello I am Adam. I have expeirence in python, R, and analyzing data. I have a pa
 -⭐ Master of Science in Biomedical Engineering.
 
 ### 📝 Projects
+-Welcome to my portfolio, [Click here to access the list.](https://github.com/atomsc/atomsc/edit/main/README.md)
 
 
 
